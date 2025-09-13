@@ -30,10 +30,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain
 
 ##
 
-![Snake animation](maathxx)
-
-##
-
 - 🔭 Em busca de uma vaga como Desenvolvedor 
 - 🌱 Atualmente estudando React/Nextjs e Nodejs/.Net
 - 💬 Cursando Analise e Desenvolvimento de Sistemas (Unicid)
