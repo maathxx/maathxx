@@ -24,8 +24,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain
 
 <div>
   <a href= "https://instagram.com/_maathxx_" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailtocontact:matheusfdeoliveira2006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href= www.linkedin.com/in/matheus-oliveira-269175356 target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href = "matheusfdeoliveira2006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href= "www.linkedin.com/in/matheus-oliveira-269175356" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ##
@@ -33,4 +33,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain
 - 🔭 Em busca de uma vaga como Desenvolvedor 
 - 🌱 Atualmente estudando React/Nextjs e Nodejs/.Net
 - 💬 Cursando Analise e Desenvolvimento de Sistemas (Unicid)
-- 📫 Me contate pelo Email: matheusfdeoliveira2006@gmail.com ou pelo LinkedIn:
+- 📫 Me contate pelo Email: matheusfdeoliveira2006@gmail.com
