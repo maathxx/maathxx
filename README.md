@@ -1,10 +1,11 @@
 ## Olá! Eu sou o Matheus Oliveira!
 
- <div>
-   <a href="https://github.com/maathxx">
-   <img width="41%" src="https://github-readme-stats.vercel.app/api?username=maathxx&show_icons=true&theme=dark&include_all_commits=true7count_private=true"/>
-   <img width="57%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maathxx&layout=compact&langs_count=16&theme=dark" />  
-   </div>
+ <div align="center">
+  <div style="display: flex; justify-content: center; align-items: stretch; gap: 10px;">
+    <img height="170em" src="LINK_DO_SEU_CARD_DE_STATS" />
+    <img height="170em" src="LINK_DO_SEU_CARD_DE_LANGUAGES" />
+  </div>
+</div>
 
    <div style="display: inline_block"><br>
   <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
