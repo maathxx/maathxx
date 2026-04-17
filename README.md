@@ -29,7 +29,7 @@
   </tr>
 </table>
 
-
+##
 
 - 🔭 Em busca de uma vaga como Desenvolvedor 
 - 🌱 Atualmente estudando React/Nextjs e Nodejs/.Net
