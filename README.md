@@ -5,7 +5,7 @@
    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maathxx&layout=compact&langs_count=16&theme=dark" />  
  </div>
  
- <div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
+ <div style="display: flex; flex-direction: row; align-items: center; gap: 10;">
   <img alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Math-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img alt="Math-NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
