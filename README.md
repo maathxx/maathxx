@@ -28,6 +28,7 @@
     <td width="10"></td> <td><a href="https://www.linkedin.com/in/matheus-oliveira-269175356"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
   </tr>
 </table>
+
 ##
 
 - 🔭 Em busca de uma vaga como Desenvolvedor 
