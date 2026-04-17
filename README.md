@@ -5,7 +5,7 @@
    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maathxx&layout=compact&langs_count=16&theme=dark" />  
  </div>
  
-<table align="left">
+<table align="center">
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="js" height="30" width="40"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="ts" height="30" width="40"></td>
@@ -19,6 +19,8 @@
   </tr>
 </table>
 
+<br>
+<br>
 <br>
 
 <div>
