@@ -30,6 +30,7 @@
 </table>
 
 
+
 - 🔭 Em busca de uma vaga como Desenvolvedor 
 - 🌱 Atualmente estudando React/Nextjs e Nodejs/.Net
 - 💬 Cursando Analise e Desenvolvimento de Sistemas (Unicid)
