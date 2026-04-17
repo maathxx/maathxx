@@ -23,7 +23,7 @@
 
 <br>
 
-<table align="center" border="0">
+## <table align="center" border="0">
   <tr>
     <td><a href="https://instagram.com/_maathxx_"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></td>
     <td width="10"></td> <td><a href="mailto:matheusfdeoliveira2006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a></td>
