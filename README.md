@@ -20,6 +20,7 @@ Me chamo Matheus Farias de Oliveira, tenho 19 anos e sou natural de São Paulo (
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="node" height="30" width="40"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" alt="sql" height="30" width="40"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" height="30" width="30"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" height="30" width="30"></td>
   </tr>
 </table>
 
