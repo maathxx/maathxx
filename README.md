@@ -26,7 +26,7 @@ Me chamo Matheus Farias de Oliveira, tenho 19 anos e sou natural de São Paulo (
 
 ### 📊 Estatísticas
 
-<table border="0">
+<table align="center" border="0">
   <tr>
     <td width="50%">
       <img height="170" src="https://github-readme-stats-liart-one-85.vercel.app/api?username=maathxx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
