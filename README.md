@@ -1,6 +1,6 @@
 # Matheus Oliveira
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Matheus Farias de Oliveira, tenho 19 anos e sou natural de São Paulo (SP). Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID) com foco no desenvolvimento de competências para atuar como Desenvolvedor Fullstack. Além da formação acadêmica, dedico-me a cursos complementares para dominar tecnologias de Front-end e Back-end. Busco minha primeira oportunidade profissional na área da tecnológia aplicar meus conhecimentos, colaborar com a equipe e evoluir tecnicamente em um ambiente prático e desafiador.
 
