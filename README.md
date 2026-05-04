@@ -2,8 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/maathxx">
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maathxx)](https://github.com/anuraghazra/github-readme-stats)
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maathxx&layout=compact&langs_count=16&theme=dark" />
+    <img width="40%" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" />
   </a>
 </div>
 
