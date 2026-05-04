@@ -33,8 +33,3 @@ Me chamo Matheus Farias de Oliveira, tenho 19 anos e sou natural de São Paulo (
 </table>
 
 ##
-
-- 🔭 Em busca de uma vaga como Desenvolvedor 
-- 🌱 Atualmente estudando React/Nextjs e Nodejs/.Net
-- 💬 Cursando Analise e Desenvolvimento de Sistemas (Unicid)
-- 📫 Me contate pelo Email: matheusfdeoliveira2006@gmail.com
