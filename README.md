@@ -31,10 +31,10 @@ Me chamo Matheus Farias de Oliveira, tenho 20 anos e sou natural de São Paulo (
 <table align="center" border="0">
   <tr>
     <td width="50%">
-      <img height="170" src="https://github-readme-stats-liart-one-85.vercel.app/api?username=maathxx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+      <img height="170" src="https://github-readme-stats-liart-one-85.vercel.app/api?username=maathxx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&v=2" />
     </td>
     <td width="70%">
-      <img height="200" src="https://github-readme-stats-liart-one-85.vercel.app/api/top-langs/?username=maathxx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" />
+      <img height="200" src="https://github-readme-stats-liart-one-85.vercel.app/api/top-langs/?username=maathxx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&v=2" />
     </td>
   </tr>
 </table>
