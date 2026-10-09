@@ -35,7 +35,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cidade de 
     <td width="50%">
       <img height="170" src="https://github-readme-stats-liart-one-85.vercel.app/api?username=maathxx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&v=2" />
     </td>
-    <td width="70%">
+    <td width="60%">
       <img height="200" src="https://github-readme-stats-liart-one-85.vercel.app/api/top-langs/?username=maathxx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&cache_seconds=1" />    </td>
   </tr>
 </table>
